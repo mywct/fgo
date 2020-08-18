@@ -200,7 +200,7 @@
 
 		context.font = "20px Microsoft JhengHei";
 		context.fillStyle = mask;
-		context.fillText("This image was made by mgneko.github.io", 190 + marginLeft, canvas.height - 25);
+		context.fillText("This image was made by mywct.github.io/fgo/", 190 + marginLeft, canvas.height - 25);
 	}
 
 	function drawImage(x, y, image){
