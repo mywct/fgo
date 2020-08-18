@@ -1,4 +1,4 @@
-	var canvas, context;
+﻿	var canvas, context;
 	var CELL_SIZE = 50;
 	var caculateField = 70;
 	var row_padding = 30;
@@ -36,7 +36,7 @@
 
 	var AllCategoryNUM = {
 		"tw": [9, 9, 7, 8, 10, 7, 7, 3, 2, 3, 2, 1],
-		"jp": [12, 11, 9, 12, 12, 9, 10, 5, 4, 5, 3, 3]
+		"jp": [12, 11, 9, 12, 12, 9, 10, 5, 4, 5, 4, 3]
 	};
 
 	//右鍵選單取消,綁定功能
